@@ -43,20 +43,6 @@ I enjoy working on projects that combine mathematical rigour with practical engi
 
 ---
 
-## 📁 Featured Projects
-
-### [R-X Impedance Locus Point Generator](https://github.com/yourusername/rx-impedance-sampling)
-
-Python tool developed during a one-week engineering placement at **Siemens Energy, Manchester**.
-
-- Automates sampling point generation for irregular R-X impedance loci
-- Implements candidate-grid generation with farthest-point sampling
-- Solves a constrained optimisation problem in computational geometry
-
-*Key skills: Python, NumPy, algorithmic thinking, numerical methods*
-
----
-
 ## 🎓 Education
 
 **MEng Mechanical Engineering**
